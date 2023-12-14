@@ -1,0 +1,1 @@
+{"lr__C": 10, "lr__l1_ratio": 0.8, "lr__penalty": "l2", "tfidf__max_features": null, "tfidf__ngram_range": [1, 4]}
